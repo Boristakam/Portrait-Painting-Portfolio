@@ -1,5 +1,5 @@
 # Portrait Painting Portfolio
-A curated collection of oil portraiture, featuring studies of public figures, online personalities, friends and family
+A curated collection of current oil portraiture, featuring studies of public figures, online personalities, friends and family
 
 <p align="center">
   <img src="media/self-portrait.jpg" width="500" alt="Self portrait">
@@ -26,7 +26,7 @@ A curated collection of oil portraiture, featuring studies of public figures, on
 </p>
 
 <p align="center">
-  <img src="media/bearded-man.jpg" width="500" alt="Bearded man">
+  <img src="media/bearded-man.jpeg" width="500" alt="Bearded man">
   <br>
   <i>Bearded man<i>
 </p>
@@ -37,15 +37,4 @@ A curated collection of oil portraiture, featuring studies of public figures, on
   <i>Combat scene<i>
 </p>
 
-<p align="center">
-  <img src="media/girl-with-the-pink-cup.jpg" width="500" alt="Girl with the pink cup">
-  <br>
-  <i>Girl with the pink cup<i>
-</p>
-
-<p align="center">
-  <img src="media/two-roses.jpg" width="500" alt="Two roses">
-  <br>
-  <i>Two Roses<i>
-</p>
 
